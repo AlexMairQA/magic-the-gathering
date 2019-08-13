@@ -1,0 +1,16 @@
+.card{
+    border: 5px dotted black;
+    max-width: 300px;
+    max-height: 900px;
+    background: beige !important;
+   
+}
+
+.card-text{
+    font-family: 'Impact' !important;
+}
+.card-img{
+    max-width: 300px;
+    max-height: 300px;
+    margin:10px;
+}
